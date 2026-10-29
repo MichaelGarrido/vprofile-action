@@ -1,0 +1,11 @@
+# Maven output and runtime logs.
+/target/
+*.log
+
+# Local environment files; tracked application.properties remains tracked.
+.env
+.env.*
+!.env.example
+
+# Desktop metadata.
+.DS_Store
